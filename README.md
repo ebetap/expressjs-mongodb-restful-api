@@ -3,8 +3,10 @@
 Build restful api using mongoDB and Express.js
 
 Description
+Make sure you've install mongoDb in your machine.
 
 1. running on port 3000
+2. database name : 'exmo'
 
 #Setup
 
