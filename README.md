@@ -9,7 +9,7 @@ Deskripsi(indo)
 Make sure you've install mongoDb in your machine.
 Pastikan anda sudah menginstall mongoDb di Komputermu(indo)
 
-1. running on port 3000
+1. running on port 3000 / berjalan di port 3000
 2. database name : 'exmo'
 
 #Setup
