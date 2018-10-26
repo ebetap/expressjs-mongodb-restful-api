@@ -1,6 +1,7 @@
 # expressjs-mongodb-restful-api
 
 Build restful api using mongoDB and Express.js
+Membangun api tenang menggunakan mongoDB dan Express.js(indo)
 
 Description
 Make sure you've install mongoDb in your machine.
