@@ -4,6 +4,7 @@ Build restful api using mongoDB and Express.js
 Membangun api tenang menggunakan mongoDB dan Express.js(indo)
 
 Description
+Deskripsi(indo)
 Make sure you've install mongoDb in your machine.
 
 1. running on port 3000
