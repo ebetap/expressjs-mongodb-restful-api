@@ -24,3 +24,4 @@ API docs
 3. POST user data `/users` with body `{email:'someemail@gmail.com',password:'somepassword'}`
 4. PUT user data `/users/:id` require id as paramer and body `{email:'someemail@gmail.com',password:'somepassword'}`
 5. DELETE user data `/users/:id` require id as parameter
+
