@@ -6,6 +6,7 @@ Membangun api tenang menggunakan mongoDB dan Express.js(indo)
 Description
 Deskripsi(indo)
 Make sure you've install mongoDb in your machine.
+マシンにmongoDbがインストールされていることを確認してください。 (japan)
 
 1. running on port 3000
 2. database name : 'exmo'
