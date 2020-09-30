@@ -1,26 +1,24 @@
-# expressjs-mongodb-restful-api
+＃expressjs-mongodb-restful-api
 
-Build restful api using mongoDB and Express.js
-Membangun api tenang menggunakan mongoDB dan Express.js(indo)
+使用mongoDB和Express.js构建Restful API
 
-Description
-Deskripsi(indo)
-Make sure you've install mongoDb in your machine.
+描述
+确保已在计算机中安装mongoDb。
 
-1. running on port 3000
-2. database name : 'exmo'
+1.在端口3000上运行
+2.数据库名称：“ exmo”
 
-#Setup
+＃建立
 
-1. clone this repository
-2. open terminal and go to `expressjs-mongodb-restful-api` directory
-3. `npm install` if err try with 'sudo npm install'
-4. `npm start`
+1.克隆此存储库
+2.打开终端并进入`expressjs-mongodb-restful-api`目录
+3.`npm install`如果错误，请尝试使用'sudo npm install'
+4.`npm start`
 
-API docs
+API文档
 
-1. GET all users data `/users`
-2. GET user by id `/user/:id` require id as parameter
-3. POST user data `/users` with body `{email:'someemail@gmail.com',password:'somepassword'}`
-4. PUT user data `/users/:id` require id as paramer and body `{email:'someemail@gmail.com',password:'somepassword'}`
-5. DELETE user data `/users/:id` require id as parameter
+1.获取所有用户数据`/ users`
+2.通过id`/ user /：id`获取用户需要id作为参数
+3.使用正文{{email：'someemail @ gmail.com'，password：'somepassword'}`发布用户数据`/ users`。
+4. PUT用户数据`/ users /：id`要求id为参数，正文为{{email：'someemail @ gmail.com'，password：'somepassword'}`
+5.删除用户数据`/ users /：id`需要id作为参数
