@@ -1,24 +1,24 @@
 # expressjs-mongodb-restful-api
 
-Build restful api using mongoDB and Express.js
+mongoDB 및 Express.js를 사용하여 편안한 API 빌드
 
-Description
-Make sure you've install mongoDb in your machine.
+기술
+컴퓨터에 mongoDb를 설치했는지 확인하십시오.
 
-1. running on port 3000
-2. database name : 'exmo'
+1. 포트 3000에서 실행
+2. 데이터베이스 이름 : 'exmo'
 
-#Setup
+#설정
 
-1. clone this repository
-2. open terminal and go to `expressjs-mongodb-restful-api` directory
-3. `npm install` if err try with 'sudo npm install'
-4. `npm start`
+1.이 저장소 복제
+2. 터미널을 열고`expressjs-mongodb-restful-api` 디렉토리로 이동합니다.
+3. 'sudo npm install'로 오류를 시도하면`npm install '
+4.`npm 시작`
 
-API docs
+API 문서
 
-1. GET all users data `/users`
-2. GET user by id `/user/:id` require id as parameter
-3. POST user data `/users` with body `{email:'someemail@gmail.com',password:'somepassword'}`
-4. PUT user data `/users/:id` require id as paramer and body `{email:'someemail@gmail.com',password:'somepassword'}`
-5. DELETE user data `/users/:id` require id as parameter
+1. 모든 사용자 데이터`/ users` 가져 오기
+2. ID`/ user / : id`로 사용자 가져 오기 매개 변수로 ID 필요
+3. 본문`{email : 'someemail @ gmail.com', password : 'somepassword'}`가있는 사용자 데이터`/ users` POST
+4. PUT 사용자 데이터`/ users / : id`에는 매개 변수로 id와 본문`{email : 'someemail @ gmail.com', password : 'somepassword'}`가 필요합니다.
+5. 사용자 데이터 삭제`/ users / : id`는 매개 변수로 ID가 필요합니다.
